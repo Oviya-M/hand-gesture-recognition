@@ -1,0 +1,34 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Conda environments
+env/
+venv/
+.conda/
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+data/
+
+# Models
+models/
+*.pkl
+*.h5
+*.pt
+
+# Logs
+*.log
+
+# Build files
+build/
+dist/
