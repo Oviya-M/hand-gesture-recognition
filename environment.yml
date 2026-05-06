@@ -1,0 +1,16 @@
+name: gesture-env
+
+channels:
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pip
+
+  - pip:
+      - mediapipe
+      - opencv-python
+      - numpy
+      - pandas
+      - matplotlib
+      - scikit-learn
